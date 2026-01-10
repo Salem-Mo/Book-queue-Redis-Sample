@@ -1,6 +1,6 @@
 import { createClient } from 'redis';
 
-export const client =  createClient({
+const client =  createClient({
     username: process.env.REDIS_USERNAME,
     password: process.env.REDIS_PASS,
     socket: {
@@ -15,5 +15,6 @@ client.on('error', err => console.log('Redis Client Error', err));
 if (!client.isOpen){
     client.connect();
 }
+export {client}
 
 

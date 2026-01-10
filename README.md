@@ -3,7 +3,7 @@
 A high-performance, modern book indexing sanctuary curated by **Salem MO**. This project serves as a showcase for integrating **Next.js** with **Redis** to create a lightning-fast, persistent data store for literary collections
 **Note:** This is a practice project for learning purposes.
 **AI Usage** - AI was used in decoration only
-![The Digital Library Home](/Project%20Records/Home.gif)
+![The Digital Library Home](public/Project%20Records/Home.gif)
 
 ## Features ✨
 
@@ -20,12 +20,12 @@ A high-performance, modern book indexing sanctuary curated by **Salem MO**. This
 ### Catalog View
 
 The home page showcases the current collection in a responsive grid of glass-wrapped cards.
-![Home View](/Project%20Records/Home.gif)
+![Home View](public/Project%20Records/Home.gif)
 
 ### Registry Process
 
 Adding a new volume is a seamless experience with real-time feedback.
-![Create View](/Project%20Records/Create.gif)
+![Create View](public/Project%20Records/Create.gif)
 
 ## Getting Started 🚀
 
